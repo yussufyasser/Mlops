@@ -1,0 +1,14 @@
+artifact_uri: file:///home/yussuf/Alaa/mlruns/792954935030249545/42e9adb0891341a6bac3d5b1fa116840/artifacts
+end_time: 1752849896429
+entry_point_name: ''
+experiment_id: '792954935030249545'
+lifecycle_stage: active
+run_id: 42e9adb0891341a6bac3d5b1fa116840
+run_name: bouncy-doe-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752849895220
+status: 3
+tags: []
+user_id: yussuf

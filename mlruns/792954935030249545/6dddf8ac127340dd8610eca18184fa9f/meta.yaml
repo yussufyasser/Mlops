@@ -1,0 +1,14 @@
+artifact_uri: file:///home/yussuf/Alaa/mlruns/792954935030249545/6dddf8ac127340dd8610eca18184fa9f/artifacts
+end_time: 1752849829154
+entry_point_name: ''
+experiment_id: '792954935030249545'
+lifecycle_stage: active
+run_id: 6dddf8ac127340dd8610eca18184fa9f
+run_name: chill-eel-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752849827159
+status: 3
+tags: []
+user_id: yussuf

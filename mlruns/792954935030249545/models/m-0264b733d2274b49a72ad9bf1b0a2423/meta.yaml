@@ -1,0 +1,10 @@
+artifact_location: file:///home/yussuf/Alaa/mlruns/792954935030249545/models/m-0264b733d2274b49a72ad9bf1b0a2423/artifacts
+creation_timestamp: 1752849827206
+experiment_id: '792954935030249545'
+last_updated_timestamp: 1752849829150
+model_id: m-0264b733d2274b49a72ad9bf1b0a2423
+model_type: null
+name: model
+source_run_id: 6dddf8ac127340dd8610eca18184fa9f
+status: 2
+status_message: null

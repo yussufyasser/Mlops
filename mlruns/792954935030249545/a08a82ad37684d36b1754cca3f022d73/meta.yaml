@@ -1,0 +1,14 @@
+artifact_uri: file:///home/yussuf/Alaa/mlruns/792954935030249545/a08a82ad37684d36b1754cca3f022d73/artifacts
+end_time: 1752849888459
+entry_point_name: ''
+experiment_id: '792954935030249545'
+lifecycle_stage: active
+run_id: a08a82ad37684d36b1754cca3f022d73
+run_name: casual-shark-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752849887230
+status: 3
+tags: []
+user_id: yussuf
